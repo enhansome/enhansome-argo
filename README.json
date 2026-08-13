@@ -1,0 +1,331 @@
+{
+  "items": [
+    {
+      "description": "Selected projects from argoproj (other than the four projects mentioned above) and argoproj-labs:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Argo Helm",
+          "description": "is a collection of community-maintained Helm charts for Argo projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Mustache",
+            "last_commit": "2026-08-13T04:59:29Z",
+            "owner": "argoproj",
+            "repo": "argo-helm",
+            "stars": 2345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argo CD Image Updater",
+          "description": "is a tool to automatically update the container images of Kubernetes workloads which are managed by Argo CD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T12:01:02Z",
+            "owner": "argoproj-labs",
+            "repo": "argocd-image-updater",
+            "stars": 1706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argo CD Autopilot",
+          "description": "offers an opinionated way of installing Argo CD and managing GitOps repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-16T22:36:28Z",
+            "owner": "argoproj-labs",
+            "repo": "argocd-autopilot",
+            "stars": 1127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argo CD Vault Plugin",
+          "description": "is an Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-12-18T18:24:47Z",
+            "owner": "argoproj-labs",
+            "repo": "argocd-vault-plugin",
+            "stars": 973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hera",
+          "description": "is an Argo Python SDK. Hera aims to make construction and submission of various Argo Project resources easy and accessible to everyone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T17:08:29Z",
+            "owner": "argoproj-labs",
+            "repo": "hera",
+            "stars": 926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argo CD Operator",
+          "description": "is a Kubernetes operator for managing Argo CD clusters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T07:01:33Z",
+            "owner": "argoproj-labs",
+            "repo": "argocd-operator",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argo CD Agent",
+          "description": "aims to improve scalability and security of Argo CD's multi-cluster capabilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:49:54Z",
+            "owner": "argoproj-labs",
+            "repo": "argocd-agent",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notifications Engine",
+          "description": "is a configuration-driven Golang library that provides notifications for cloud-native applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-23T17:42:41Z",
+            "owner": "argoproj",
+            "repo": "notifications-engine",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argo Rollout Extension",
+          "description": "contains the Argo Rollout dashboard that can be added into the Argo CD Web UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T14:26:29Z",
+            "owner": "argoproj-labs",
+            "repo": "rollout-extension",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argo Rollouts Manager",
+          "description": "is a Kubernetes operator that provides an easy way to install, upgrade and manage the lifecycle of Argo Rollouts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T14:28:34Z",
+            "owner": "argoproj-labs",
+            "repo": "argo-rollouts-manager",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argo CD Extensions",
+          "description": "enables extensions for Argo CD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-11-17T16:58:23Z",
+            "owner": "argoproj-labs",
+            "repo": "argocd-extensions",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argo CD RBAC Operator",
+          "description": "is a Kubernetes operator for managing Argo CD's RBAC. It supports both global scoped RBAC () and project scoped RBAC (AppProjects).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-20T22:34:42Z",
+            "owner": "argoproj-labs",
+            "repo": "argocd-rbac-operator",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argo Workflows Catalog",
+          "description": "contains free reusable templates for Argo Workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-28T12:23:11Z",
+            "owner": "argoproj-labs",
+            "repo": "argo-workflows-catalog",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argo CD Interlace",
+          "description": "is a Kubernetes controller to enable software supply chain security capabilities in Argo CD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-11-04T07:55:32Z",
+            "owner": "argoproj-labs",
+            "repo": "argocd-interlace",
+            "stars": 93
+          }
+        }
+      ],
+      "title": "Ecosystem Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Argo Project GitHub Organization",
+          "description": "(Maintainers and Community Governance)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T21:06:49Z",
+            "owner": "argoproj",
+            "repo": "argoproj",
+            "stars": 756
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Argo Project User Survey Results:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2021",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-17T21:06:49Z",
+                "owner": "argoproj",
+                "repo": "argoproj",
+                "stars": 756
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2020",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-17T21:06:49Z",
+                "owner": "argoproj",
+                "repo": "argoproj",
+                "stars": 756
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Community"
+    },
+    {
+      "description": "Some blogposts and videos are selected from Argo's community blogs and presentations.\nThanks to the contributors who've submitted pull requests to add the original references to the following locations:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Argo CD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T12:19:33Z",
+            "owner": "argoproj",
+            "repo": "argo-cd",
+            "stars": 23917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argo Workflows",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T15:18:21Z",
+            "owner": "argoproj",
+            "repo": "argo-workflows",
+            "stars": 16896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argo Rollouts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T00:43:02Z",
+            "owner": "argoproj",
+            "repo": "argo-rollouts",
+            "stars": 3551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argo Events",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-08T12:57:22Z",
+            "owner": "argoproj",
+            "repo": "argo-events",
+            "stars": 2685
+          }
+        }
+      ],
+      "title": "Acknowledgement"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:32:08.403Z",
+    "original_repository": "akuity/awesome-argo",
+    "original_repository_sha": "78c1f8877c412acc7cf3f21455d50d428b4f966b",
+    "enhanced_repository": "enhansome/enhansome-argo",
+    "enhanced_repository_description": null,
+    "title": "Awesome Argo with stars"
+  }
+}
