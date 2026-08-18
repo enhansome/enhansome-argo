@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Mustache",
-            "last_commit": "2026-08-17T03:32:24Z",
+            "last_commit": "2026-08-17T16:49:36Z",
             "owner": "argoproj",
             "repo": "argo-helm",
             "stars": 2352
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T12:01:02Z",
+            "last_commit": "2026-08-18T14:51:45Z",
             "owner": "argoproj-labs",
             "repo": "argocd-image-updater",
             "stars": 1708
@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T13:01:18Z",
+            "last_commit": "2026-08-18T04:02:51Z",
             "owner": "argoproj-labs",
             "repo": "argocd-operator",
             "stars": 882
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T17:13:17Z",
+            "last_commit": "2026-08-18T13:11:39Z",
             "owner": "argoproj-labs",
             "repo": "argocd-agent",
             "stars": 574
@@ -216,7 +216,7 @@
             "last_commit": "2026-07-17T21:06:49Z",
             "owner": "argoproj",
             "repo": "argoproj",
-            "stars": 756
+            "stars": 755
           }
         },
         {
@@ -235,7 +235,7 @@
                 "last_commit": "2026-07-17T21:06:49Z",
                 "owner": "argoproj",
                 "repo": "argoproj",
-                "stars": 756
+                "stars": 755
               }
             },
             {
@@ -249,7 +249,7 @@
                 "last_commit": "2026-07-17T21:06:49Z",
                 "owner": "argoproj",
                 "repo": "argoproj",
-                "stars": 756
+                "stars": 755
               }
             }
           ]
@@ -268,10 +268,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T13:16:25Z",
+            "last_commit": "2026-08-18T12:29:56Z",
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 23934
+            "stars": 23947
           }
         },
         {
@@ -282,10 +282,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T14:52:09Z",
+            "last_commit": "2026-08-18T10:16:22Z",
             "owner": "argoproj",
             "repo": "argo-workflows",
-            "stars": 16906
+            "stars": 16910
           }
         },
         {
@@ -296,10 +296,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T00:48:23Z",
+            "last_commit": "2026-08-18T00:48:12Z",
             "owner": "argoproj",
             "repo": "argo-rollouts",
-            "stars": 3555
+            "stars": 3557
           }
         },
         {
@@ -310,10 +310,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T12:37:09Z",
+            "last_commit": "2026-08-17T17:59:04Z",
             "owner": "argoproj",
             "repo": "argo-events",
-            "stars": 2686
+            "stars": 2685
           }
         }
       ],
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T15:57:48.834Z",
+    "last_updated": "2026-08-18T16:01:18.269Z",
     "original_repository": "akuity/awesome-argo",
     "original_repository_sha": "78c1f8877c412acc7cf3f21455d50d428b4f966b",
     "enhanced_repository": "enhansome/enhansome-argo",
