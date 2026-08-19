@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T19:58:22Z",
             "owner": "argoproj-labs",
             "repo": "argocd-image-updater",
-            "stars": 1709
+            "stars": 1710
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-18T17:13:28Z",
             "owner": "argoproj-labs",
             "repo": "argocd-agent",
-            "stars": 576
+            "stars": 577
           }
         },
         {
@@ -222,10 +222,10 @@
             "archived": false,
             "id": 157554479,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:46:46Z",
+            "last_commit": "2026-08-19T15:57:43Z",
             "owner": "meshery",
             "repo": "meshery",
-            "stars": 11509
+            "stars": 11511
           }
         },
         {
@@ -237,7 +237,7 @@
             "archived": false,
             "id": 182067506,
             "language": "Python",
-            "last_commit": "2026-08-19T12:14:09Z",
+            "last_commit": "2026-08-19T15:37:53Z",
             "owner": "kedro-org",
             "repo": "kedro",
             "stars": 10955
@@ -255,7 +255,7 @@
             "last_commit": "2026-08-17T14:30:33Z",
             "owner": "stakater",
             "repo": "Reloader",
-            "stars": 10346
+            "stars": 10347
           }
         },
         {
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 302922505,
             "language": "Go",
-            "last_commit": "2026-08-19T11:56:00Z",
+            "last_commit": "2026-08-19T13:37:01Z",
             "owner": "devtron-labs",
             "repo": "devtron",
             "stars": 5581
@@ -405,7 +405,7 @@
             "last_commit": "2026-08-06T23:09:31Z",
             "owner": "kubeflow",
             "repo": "katib",
-            "stars": 1695
+            "stars": 1696
           }
         },
         {
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 414125826,
             "language": "Go",
-            "last_commit": "2026-08-19T12:05:36Z",
+            "last_commit": "2026-08-19T13:25:49Z",
             "owner": "crumbhole",
             "repo": "argocd-lovely-plugin",
             "stars": 490
@@ -507,7 +507,7 @@
             "archived": false,
             "id": 1034142340,
             "language": "Go",
-            "last_commit": "2026-08-18T22:17:08Z",
+            "last_commit": "2026-08-19T13:36:24Z",
             "owner": "darksworm",
             "repo": "argonaut",
             "stars": 439
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:48:09Z",
+            "last_commit": "2026-08-19T15:57:34Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -657,7 +657,7 @@
             "archived": false,
             "id": 469915683,
             "language": "Go",
-            "last_commit": "2026-08-19T10:25:48Z",
+            "last_commit": "2026-08-19T14:00:20Z",
             "owner": "shini4i",
             "repo": "argo-watcher",
             "stars": 105
@@ -982,7 +982,7 @@
             "archived": false,
             "id": 120896210,
             "language": "Go",
-            "last_commit": "2026-08-19T12:06:54Z",
+            "last_commit": "2026-08-19T15:13:19Z",
             "owner": "argoproj",
             "repo": "argo-cd",
             "stars": 23953
@@ -997,10 +997,10 @@
             "archived": false,
             "id": 100982449,
             "language": "Go",
-            "last_commit": "2026-08-19T11:38:38Z",
+            "last_commit": "2026-08-19T14:47:34Z",
             "owner": "argoproj",
             "repo": "argo-workflows",
-            "stars": 16915
+            "stars": 16916
           }
         },
         {
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:15:51.009Z",
+    "last_updated": "2026-08-19T16:01:44.106Z",
     "original_repository": "akuity/awesome-argo",
     "original_repository_id": 423298850,
     "original_repository_sha": "78c1f8877c412acc7cf3f21455d50d428b4f966b",
