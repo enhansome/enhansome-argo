@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T16:49:36Z",
             "owner": "argoproj",
             "repo": "argo-helm",
-            "stars": 2352
+            "stars": 2353
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-18T20:08:04Z",
             "owner": "argoproj-labs",
             "repo": "hera",
-            "stars": 927
+            "stars": 928
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 225753076,
             "language": "Go",
-            "last_commit": "2026-08-18T04:02:51Z",
+            "last_commit": "2026-08-20T08:42:50Z",
             "owner": "argoproj-labs",
             "repo": "argocd-operator",
             "stars": 882
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 706870108,
             "language": "Go",
-            "last_commit": "2026-08-18T17:13:28Z",
+            "last_commit": "2026-08-19T21:24:26Z",
             "owner": "argoproj-labs",
             "repo": "argocd-agent",
-            "stars": 577
+            "stars": 578
           }
         },
         {
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 625871326,
             "language": "Go",
-            "last_commit": "2026-08-13T14:28:34Z",
+            "last_commit": "2026-08-19T18:22:01Z",
             "owner": "argoproj-labs",
             "repo": "argo-rollouts-manager",
             "stars": 143
@@ -222,10 +222,10 @@
             "archived": false,
             "id": 157554479,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T15:57:43Z",
+            "last_commit": "2026-08-20T15:26:04Z",
             "owner": "meshery",
             "repo": "meshery",
-            "stars": 11511
+            "stars": 11521
           }
         },
         {
@@ -237,10 +237,10 @@
             "archived": false,
             "id": 182067506,
             "language": "Python",
-            "last_commit": "2026-08-19T15:37:53Z",
+            "last_commit": "2026-08-20T14:49:31Z",
             "owner": "kedro-org",
             "repo": "kedro",
-            "stars": 10955
+            "stars": 10956
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-08-17T14:30:33Z",
             "owner": "stakater",
             "repo": "Reloader",
-            "stars": 10347
+            "stars": 10349
           }
         },
         {
@@ -267,10 +267,10 @@
             "archived": false,
             "id": 209120637,
             "language": "Python",
-            "last_commit": "2026-08-18T09:41:43Z",
+            "last_commit": "2026-08-20T13:25:44Z",
             "owner": "Netflix",
             "repo": "metaflow",
-            "stars": 10225
+            "stars": 10228
           }
         },
         {
@@ -282,10 +282,10 @@
             "archived": false,
             "id": 302922505,
             "language": "Go",
-            "last_commit": "2026-08-19T13:37:01Z",
+            "last_commit": "2026-08-20T14:12:56Z",
             "owner": "devtron-labs",
             "repo": "devtron",
-            "stars": 5581
+            "stars": 5583
           }
         },
         {
@@ -327,10 +327,10 @@
             "archived": false,
             "id": 133100880,
             "language": "Python",
-            "last_commit": "2026-08-19T01:07:37Z",
+            "last_commit": "2026-08-20T12:18:44Z",
             "owner": "kubeflow",
             "repo": "pipelines",
-            "stars": 4188
+            "stars": 4189
           }
         },
         {
@@ -372,10 +372,10 @@
             "archived": false,
             "id": 514062293,
             "language": "Go",
-            "last_commit": "2026-08-19T04:22:24Z",
+            "last_commit": "2026-08-20T15:59:12Z",
             "owner": "akuity",
             "repo": "kargo",
-            "stars": 3581
+            "stars": 3584
           }
         },
         {
@@ -447,10 +447,10 @@
             "archived": false,
             "id": 648259630,
             "language": "Go",
-            "last_commit": "2026-08-17T19:32:45Z",
+            "last_commit": "2026-08-20T03:48:40Z",
             "owner": "zapier",
             "repo": "kubechecks",
-            "stars": 606
+            "stars": 607
           }
         },
         {
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 414125826,
             "language": "Go",
-            "last_commit": "2026-08-19T13:25:49Z",
+            "last_commit": "2026-08-20T12:30:43Z",
             "owner": "crumbhole",
             "repo": "argocd-lovely-plugin",
             "stars": 490
@@ -507,7 +507,7 @@
             "archived": false,
             "id": 1034142340,
             "language": "Go",
-            "last_commit": "2026-08-19T13:36:24Z",
+            "last_commit": "2026-08-19T18:16:52Z",
             "owner": "darksworm",
             "repo": "argonaut",
             "stars": 439
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T15:57:34Z",
+            "last_commit": "2026-08-20T15:05:24Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -657,7 +657,7 @@
             "archived": false,
             "id": 469915683,
             "language": "Go",
-            "last_commit": "2026-08-19T14:00:20Z",
+            "last_commit": "2026-08-20T15:54:02Z",
             "owner": "shini4i",
             "repo": "argo-watcher",
             "stars": 105
@@ -717,7 +717,7 @@
             "archived": false,
             "id": 374609813,
             "language": "Go",
-            "last_commit": "2026-08-14T04:03:02Z",
+            "last_commit": "2026-08-19T20:44:03Z",
             "owner": "crumbhole",
             "repo": "ci-github-notifier",
             "stars": 51
@@ -807,7 +807,7 @@
             "archived": false,
             "id": 1022190605,
             "language": "TypeScript",
-            "last_commit": "2026-08-06T15:04:40Z",
+            "last_commit": "2026-08-20T15:04:53Z",
             "owner": "lumindigital",
             "repo": "juno",
             "stars": 12
@@ -982,10 +982,10 @@
             "archived": false,
             "id": 120896210,
             "language": "Go",
-            "last_commit": "2026-08-19T15:13:19Z",
+            "last_commit": "2026-08-20T15:33:27Z",
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 23953
+            "stars": 23964
           }
         },
         {
@@ -997,10 +997,10 @@
             "archived": false,
             "id": 100982449,
             "language": "Go",
-            "last_commit": "2026-08-19T14:47:34Z",
+            "last_commit": "2026-08-20T15:59:26Z",
             "owner": "argoproj",
             "repo": "argo-workflows",
-            "stars": 16916
+            "stars": 16921
           }
         },
         {
@@ -1012,7 +1012,7 @@
             "archived": false,
             "id": 158012967,
             "language": "Go",
-            "last_commit": "2026-08-18T00:48:12Z",
+            "last_commit": "2026-08-20T00:43:13Z",
             "owner": "argoproj",
             "repo": "argo-rollouts",
             "stars": 3559
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:01:44.106Z",
+    "last_updated": "2026-08-20T16:03:13.147Z",
     "original_repository": "akuity/awesome-argo",
     "original_repository_id": 423298850,
     "original_repository_sha": "78c1f8877c412acc7cf3f21455d50d428b4f966b",
