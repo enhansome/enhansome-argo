@@ -75,7 +75,7 @@
             "last_commit": "2026-08-18T20:08:04Z",
             "owner": "argoproj-labs",
             "repo": "hera",
-            "stars": 928
+            "stars": 930
           }
         },
         {
@@ -222,10 +222,10 @@
             "archived": false,
             "id": 157554479,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T15:50:01Z",
+            "last_commit": "2026-08-23T15:07:16Z",
             "owner": "meshery",
             "repo": "meshery",
-            "stars": 11549
+            "stars": 11554
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-21T12:43:29Z",
             "owner": "kedro-org",
             "repo": "kedro",
-            "stars": 10963
+            "stars": 10964
           }
         },
         {
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 139727567,
             "language": "Go",
-            "last_commit": "2026-08-17T14:30:33Z",
+            "last_commit": "2026-08-23T11:44:50Z",
             "owner": "stakater",
             "repo": "Reloader",
             "stars": 10352
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-21T21:35:42Z",
             "owner": "Netflix",
             "repo": "metaflow",
-            "stars": 10231
+            "stars": 10232
           }
         },
         {
@@ -327,7 +327,7 @@
             "archived": false,
             "id": 133100880,
             "language": "Python",
-            "last_commit": "2026-08-21T21:10:03Z",
+            "last_commit": "2026-08-23T07:33:58Z",
             "owner": "kubeflow",
             "repo": "pipelines",
             "stars": 4192
@@ -372,7 +372,7 @@
             "archived": false,
             "id": 514062293,
             "language": "Go",
-            "last_commit": "2026-08-21T22:26:23Z",
+            "last_commit": "2026-08-23T14:42:49Z",
             "owner": "akuity",
             "repo": "kargo",
             "stars": 3589
@@ -462,7 +462,7 @@
             "archived": false,
             "id": 252022100,
             "language": "Go",
-            "last_commit": "2026-08-22T15:54:47Z",
+            "last_commit": "2026-08-23T13:08:08Z",
             "owner": "argoproj-labs",
             "repo": "terraform-provider-argocd",
             "stars": 508
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 414125826,
             "language": "Go",
-            "last_commit": "2026-08-22T12:37:27Z",
+            "last_commit": "2026-08-22T18:32:24Z",
             "owner": "crumbhole",
             "repo": "argocd-lovely-plugin",
             "stars": 490
@@ -525,7 +525,7 @@
             "last_commit": "2026-08-14T09:35:46Z",
             "owner": "arnarg",
             "repo": "nixidy",
-            "stars": 379
+            "stars": 381
           }
         },
         {
@@ -582,7 +582,7 @@
             "archived": false,
             "id": 320749625,
             "language": "Go",
-            "last_commit": "2026-08-21T21:31:07Z",
+            "last_commit": "2026-08-23T01:30:54Z",
             "owner": "int128",
             "repo": "argocd-commenter",
             "stars": 154
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T14:36:33Z",
+            "last_commit": "2026-08-23T09:04:11Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -650,21 +650,6 @@
         },
         {
           "node_type": "item",
-          "title": "argo-watcher",
-          "description": "is a small service that improves the visibility of deployments that are using Argo CD Image Updater.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 469915683,
-            "language": "Go",
-            "last_commit": "2026-08-22T15:46:57Z",
-            "owner": "shini4i",
-            "repo": "argo-watcher",
-            "stars": 106
-          }
-        },
-        {
-          "node_type": "item",
           "title": "argo-cd-mixin",
           "description": "is a monitoring mixin for ArgoCD. A set of Grafana dashboards and Prometheus rules for ArgoCD.",
           "children": [],
@@ -675,7 +660,22 @@
             "last_commit": "2026-08-16T19:41:54Z",
             "owner": "adinhodovic",
             "repo": "argo-cd-mixin",
-            "stars": 105
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "argo-watcher",
+          "description": "is a small service that improves the visibility of deployments that are using Argo CD Image Updater.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 469915683,
+            "language": "Go",
+            "last_commit": "2026-08-23T14:06:45Z",
+            "owner": "shini4i",
+            "repo": "argo-watcher",
+            "stars": 106
           }
         },
         {
@@ -982,10 +982,10 @@
             "archived": false,
             "id": 120896210,
             "language": "Go",
-            "last_commit": "2026-08-22T12:08:17Z",
+            "last_commit": "2026-08-23T10:46:48Z",
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 23972
+            "stars": 23977
           }
         },
         {
@@ -1000,7 +1000,7 @@
             "last_commit": "2026-08-21T22:11:50Z",
             "owner": "argoproj",
             "repo": "argo-workflows",
-            "stars": 16926
+            "stars": 16928
           }
         },
         {
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:55:25.489Z",
+    "last_updated": "2026-08-23T15:56:01.121Z",
     "original_repository": "akuity/awesome-argo",
     "original_repository_id": 423298850,
     "original_repository_sha": "78c1f8877c412acc7cf3f21455d50d428b4f966b",
