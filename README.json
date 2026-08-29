@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ArgoProj Helm Charts",
+            "homepage": "https://argoproj.github.io/argo-helm/",
             "id": 106481151,
             "language": "Mustache",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T11:54:28Z",
+            "open_issues": 72,
             "owner": "argoproj",
             "repo": "argo-helm",
-            "stars": 2358
+            "stars": 2358,
+            "topics": [
+              "argoproj",
+              "helm-charts"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -26,12 +34,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic container image update for Argo CD",
+            "homepage": "https://argocd-image-updater.readthedocs.io/en/stable/",
             "id": 284753690,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T19:58:22Z",
+            "open_issues": 309,
             "owner": "argoproj-labs",
             "repo": "argocd-image-updater",
-            "stars": 1715
+            "stars": 1715,
+            "topics": [
+              "argo-cd",
+              "argocd",
+              "automation",
+              "containers",
+              "go",
+              "golang",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -42,12 +63,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Argo-CD Autopilot",
+            "homepage": "https://argocd-autopilot.readthedocs.io/en/stable/",
             "id": 344950560,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-16T22:36:28Z",
+            "open_issues": 96,
             "owner": "argoproj-labs",
             "repo": "argocd-autopilot",
-            "stars": 1125
+            "stars": 1125,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -58,12 +84,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets",
+            "homepage": "https://argocd-vault-plugin.readthedocs.io",
             "id": 303442935,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-18T18:24:47Z",
+            "open_issues": 162,
             "owner": "argoproj-labs",
             "repo": "argocd-vault-plugin",
-            "stars": 974
+            "stars": 974,
+            "topics": [
+              "argo-cd",
+              "argocd-plugin",
+              "aws-secrets-manager",
+              "azure-keyvault",
+              "gcp-secret-manager",
+              "gitops",
+              "kubernetes",
+              "secret-management",
+              "secrets-manager",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -74,12 +116,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star!",
+            "homepage": "https://hera.rtfd.io",
             "id": 413486077,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T20:08:04Z",
+            "open_issues": 26,
             "owner": "argoproj-labs",
             "repo": "hera",
-            "stars": 933
+            "stars": 934,
+            "topics": [
+              "argo",
+              "argo-events",
+              "argo-workflows",
+              "cloud-native",
+              "hera",
+              "kubernetes",
+              "library",
+              "machine-learning",
+              "pypi",
+              "python",
+              "sdk",
+              "workflow-automation",
+              "workflow-management",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -90,12 +152,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Kubernetes operator for managing Argo CD clusters.",
+            "homepage": "https://argocd-operator.readthedocs.io",
             "id": 225753076,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:11:27Z",
+            "open_issues": 61,
             "owner": "argoproj-labs",
             "repo": "argocd-operator",
-            "stars": 882
+            "stars": 882,
+            "topics": [
+              "argocd",
+              "go",
+              "golang",
+              "kubernetes",
+              "kubernetes-operator",
+              "openshift",
+              "operator",
+              "operator-sdk"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -106,12 +182,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redefining the multi cluster story of Argo CD",
+            "homepage": "https://argocd-agent.readthedocs.io/stable/",
             "id": 706870108,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:13:22Z",
+            "open_issues": 60,
             "owner": "argoproj-labs",
             "repo": "argocd-agent",
-            "stars": 584
+            "stars": 584,
+            "topics": [
+              "agent-based",
+              "argo-cd",
+              "argocd",
+              "distributed",
+              "edge",
+              "gitops",
+              "multi-cluster",
+              "scaling",
+              "telco"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -122,12 +213,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Affordable notifications for Kubernetes",
+            "homepage": null,
             "id": 339569902,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-23T17:42:41Z",
+            "open_issues": 114,
             "owner": "argoproj",
             "repo": "notifications-engine",
-            "stars": 334
+            "stars": 334,
+            "topics": [
+              "hacktoberfest",
+              "kubernetes",
+              "ms-teams",
+              "notifications",
+              "slack"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -138,12 +240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Argo Rollout visualization in Argo CD Web UI",
+            "homepage": null,
             "id": 373973462,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-06-30T14:26:29Z",
+            "open_issues": 36,
             "owner": "argoproj-labs",
             "repo": "rollout-extension",
-            "stars": 287
+            "stars": 287,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -154,12 +261,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes Operator for Argo Rollouts controller.",
+            "homepage": "https://argo-rollouts-manager.readthedocs.io/en/latest/",
             "id": 625871326,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T12:42:03Z",
+            "open_issues": 1,
             "owner": "argoproj-labs",
             "repo": "argo-rollouts-manager",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "argo-rollouts",
+              "argoproj",
+              "progressive-delivery"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -170,12 +286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Support for extending Argo CD",
+            "homepage": null,
             "id": 371810568,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-11-17T16:58:23Z",
+            "open_issues": 18,
             "owner": "argoproj-labs",
             "repo": "argocd-extensions",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -186,12 +307,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes Operator for Argo CD RBAC Management.",
+            "homepage": null,
             "id": 797762981,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-20T22:34:42Z",
+            "open_issues": 20,
             "owner": "argoproj-labs",
             "repo": "argocd-rbac-operator",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "argocd",
+              "go",
+              "golang",
+              "kubernetes",
+              "kubernetes-operator",
+              "operator",
+              "rbac",
+              "rbac-management"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -202,12 +337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Argo Workflows Catalog",
+            "homepage": "https://argoproj-labs.github.io/argo-workflows-catalog/",
             "id": 279618498,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-04-28T12:23:11Z",
+            "open_issues": 8,
             "owner": "argoproj-labs",
             "repo": "argo-workflows-catalog",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -218,12 +358,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enabling Software Supply Chain Security Capabilities in ArgoCD",
+            "homepage": null,
             "id": 392515009,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-04T07:55:32Z",
+            "open_issues": 2,
             "owner": "argoproj-labs",
             "repo": "argocd-interlace",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "argocd",
+              "in-toto",
+              "sigstore",
+              "software-supply-chain-security"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -234,12 +384,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meshery, the cloud native manager",
+            "homepage": "https://meshery.io",
             "id": 157554479,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:13:35Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:06:09Z",
+            "open_issues": 1842,
             "owner": "meshery",
             "repo": "meshery",
-            "stars": 11597
+            "stars": 11598,
+            "topics": [
+              "cloud-native",
+              "cncf",
+              "control-plane",
+              "gitops",
+              "golang",
+              "gsoc",
+              "hacktoberfest",
+              "infrastructure-as-code",
+              "internal-developer-platform",
+              "kanvas",
+              "kubernetes",
+              "kubernetes-operator",
+              "management-plane",
+              "meshery",
+              "opa",
+              "platform-engineering",
+              "reactjs",
+              "support-official",
+              "visualization",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -250,12 +426,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.",
+            "homepage": "https://kedro.org",
             "id": 182067506,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T23:26:40Z",
+            "open_issues": 143,
             "owner": "kedro-org",
             "repo": "kedro",
-            "stars": 10975
+            "stars": 10975,
+            "topics": [
+              "agentic-ai",
+              "agentic-workflow",
+              "data-pipelines",
+              "hacktoberfest",
+              "kedro",
+              "machine-learning",
+              "machine-learning-engineering",
+              "mlops",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -266,12 +457,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",
+            "homepage": "https://docs.stakater.com/reloader/",
             "id": 139727567,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:48:08Z",
+            "open_issues": 162,
             "owner": "stakater",
             "repo": "Reloader",
-            "stars": 10373
+            "stars": 10373,
+            "topics": [
+              "configmap",
+              "daemonset",
+              "deploymentconfigs",
+              "deployments",
+              "k8s",
+              "kubernetes",
+              "openshift",
+              "pods",
+              "secrets",
+              "statefulsets",
+              "watch-changes"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -282,12 +490,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build, Manage and Deploy AI/ML Systems",
+            "homepage": "https://metaflow.org",
             "id": 209120637,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:02:13Z",
+            "open_issues": 488,
             "owner": "Netflix",
             "repo": "metaflow",
-            "stars": 10250
+            "stars": 10250,
+            "topics": [
+              "agents",
+              "ai",
+              "aws",
+              "azure",
+              "cost-optimization",
+              "datascience",
+              "distributed-training",
+              "gcp",
+              "generative-ai",
+              "high-performance-computing",
+              "kubernetes",
+              "llm",
+              "llmops",
+              "machine-learning",
+              "ml",
+              "ml-infrastructure",
+              "ml-platform",
+              "mlops",
+              "model-management",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -298,12 +532,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The only Kubernetes dashboard you need",
+            "homepage": "https://devtron.ai",
             "id": 302922505,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T11:10:06Z",
+            "open_issues": 766,
             "owner": "devtron-labs",
             "repo": "devtron",
-            "stars": 5589
+            "stars": 5589,
+            "topics": [
+              "aks",
+              "appops",
+              "argocd",
+              "continuous-deployment",
+              "dashboard",
+              "deployment",
+              "deployment-automation",
+              "deployment-pipeline",
+              "deployment-strategy",
+              "devtron",
+              "eks",
+              "gitops",
+              "gke",
+              "hacktoberfest",
+              "kubectl",
+              "kubernetes",
+              "kubernetes-dashboard",
+              "kubernetes-deployment",
+              "release-automation",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -314,12 +574,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Brings SQL and AI together.",
+            "homepage": "https://sqlflow.org",
             "id": 151525500,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-18T08:08:51Z",
+            "open_issues": 250,
             "owner": "sql-machine-learning",
             "repo": "sqlflow",
-            "stars": 5188
+            "stars": 5188,
+            "topics": [
+              "ai",
+              "databases",
+              "deep-learning",
+              "machine-learning",
+              "sql-syntax",
+              "sqlflow",
+              "transpiler"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -330,12 +603,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models",
+            "homepage": "https://www.seldon.io/solutions/core/",
             "id": 114898943,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-23T11:39:54Z",
+            "open_issues": 396,
             "owner": "SeldonIO",
             "repo": "seldon-core",
-            "stars": 4779
+            "stars": 4779,
+            "topics": [
+              "aiops",
+              "deployment",
+              "kubernetes",
+              "machine-learning",
+              "machine-learning-operations",
+              "mlops",
+              "production-machine-learning",
+              "serving"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -346,12 +633,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Learning Pipelines for Kubeflow",
+            "homepage": "https://www.kubeflow.org/docs/components/pipelines/",
             "id": 133100880,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:07:06Z",
+            "open_issues": 464,
             "owner": "kubeflow",
             "repo": "pipelines",
-            "stars": 4196
+            "stars": 4196,
+            "topics": [
+              "data-science",
+              "kubeflow",
+              "kubeflow-pipelines",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -362,12 +662,37 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Build data pipelines, the easy way 🛠️",
+            "homepage": "https://orchest.readthedocs.io/en/stable/",
             "id": 265911693,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-06T09:48:26Z",
+            "open_issues": 130,
             "owner": "orchest",
             "repo": "orchest",
-            "stars": 4132
+            "stars": 4132,
+            "topics": [
+              "airflow",
+              "cloud",
+              "dag",
+              "data-pipelines",
+              "data-science",
+              "deployment",
+              "docker",
+              "etl",
+              "etl-pipeline",
+              "ide",
+              "jupyter",
+              "jupyterlab",
+              "kubernetes",
+              "machine-learning",
+              "notebooks",
+              "orchest",
+              "pipelines",
+              "python",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -378,12 +703,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️",
+            "homepage": "https://docs.ploomber.io",
             "id": 235190220,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-29T22:02:03Z",
+            "open_issues": 110,
             "owner": "ploomber",
             "repo": "ploomber",
-            "stars": 3621
+            "stars": 3621,
+            "topics": [
+              "data-engineering",
+              "data-science",
+              "jupyter",
+              "jupyter-notebooks",
+              "machine-learning",
+              "mlops",
+              "notebooks",
+              "papermill",
+              "pipelines",
+              "pycharm",
+              "vscode",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -394,12 +737,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Application lifecycle orchestration",
+            "homepage": "https://kargo.io/",
             "id": 514062293,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T00:00:45Z",
+            "open_issues": 176,
             "owner": "akuity",
             "repo": "kargo",
-            "stars": 3605
+            "stars": 3605,
+            "topics": [
+              "argocd",
+              "cd",
+              "delivery",
+              "gitops",
+              "hacktoberfest",
+              "k8s",
+              "kubernetes",
+              "promotions"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -410,12 +767,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Kubefirst Open Source Platform",
+            "homepage": "https://docs.konstruct.io",
             "id": 332999480,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-25T19:51:46Z",
+            "open_issues": 289,
             "owner": "konstructio",
             "repo": "kubefirst",
-            "stars": 2057
+            "stars": 2057,
+            "topics": [
+              "argocd",
+              "atlantis",
+              "aws",
+              "datadog",
+              "external-dns",
+              "external-secrets-operator",
+              "gitlab",
+              "gitops",
+              "hacktoberfest",
+              "ingress-nginx",
+              "kubernetes",
+              "platform",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -426,12 +802,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated Machine Learning on Kubernetes",
+            "homepage": "https://www.kubeflow.org/docs/components/katib",
             "id": 127941481,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T18:36:18Z",
+            "open_issues": 111,
             "owner": "kubeflow",
             "repo": "katib",
-            "stars": 1699
+            "stars": 1699,
+            "topics": [
+              "ai",
+              "automl",
+              "huggingface",
+              "hyperparameter-tuning",
+              "jax",
+              "kubeflow",
+              "kubernetes",
+              "llm",
+              "machine-learning",
+              "mlops",
+              "neural-architecture-search",
+              "pytorch",
+              "scikit-learn",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -442,12 +838,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.",
+            "homepage": "https://couler-proj.github.io/couler/index.html",
             "id": 288523518,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-08T03:31:54Z",
+            "open_issues": 21,
             "owner": "couler-proj",
             "repo": "couler",
-            "stars": 943
+            "stars": 943,
+            "topics": [
+              "apache-airflow",
+              "argo-workflows",
+              "cloud-native",
+              "distributed-computing",
+              "kubeflow",
+              "kubernetes",
+              "machine-learning",
+              "python",
+              "scheduler",
+              "tekton-pipelines",
+              "unified-api",
+              "unified-interface",
+              "workflow-automation",
+              "workflow-engine",
+              "workflow-management"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -458,12 +875,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.",
+            "homepage": "https://docs.onepanel.ai/",
             "id": 211150874,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-25T01:52:53Z",
+            "open_issues": 102,
             "owner": "onepanelio",
             "repo": "onepanel",
-            "stars": 731
+            "stars": 731,
+            "topics": [
+              "ai",
+              "aiops",
+              "annotation",
+              "computer-vision",
+              "deeplearning",
+              "etl",
+              "hyperparameter-tuning",
+              "inference",
+              "jupyterlab",
+              "labeling",
+              "machinelearning",
+              "mlops",
+              "pipelines",
+              "pytorch",
+              "tensorboard",
+              "tensorflow",
+              "training",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -474,12 +915,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Check your Kubernetes changes before they hit the cluster",
+            "homepage": "https://kubechecks.readthedocs.io/en/latest/",
             "id": 648259630,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-27T01:30:19Z",
+            "open_issues": 13,
             "owner": "zapier",
             "repo": "kubechecks",
-            "stars": 607
+            "stars": 607,
+            "topics": [
+              "argocd",
+              "cicd",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -490,12 +940,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terraform provider for Argo CD",
+            "homepage": "https://registry.terraform.io/providers/argoproj-labs/argocd",
             "id": 252022100,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T01:47:41Z",
+            "open_issues": 34,
             "owner": "argoproj-labs",
             "repo": "terraform-provider-argocd",
-            "stars": 509
+            "stars": 509,
+            "topics": [
+              "argo",
+              "argo-cd",
+              "argocd",
+              "gitops",
+              "terraform",
+              "terraform-provider"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -506,12 +968,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin to make Argo CD behave like we'd like.",
+            "homepage": null,
             "id": 414125826,
             "language": "Go",
-            "last_commit": "2026-08-28T17:47:58Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T02:34:47Z",
+            "open_issues": 14,
             "owner": "crumbhole",
             "repo": "argocd-lovely-plugin",
-            "stars": 489
+            "stars": 489,
+            "topics": [
+              "argocd",
+              "gitops",
+              "helm",
+              "kubernetes",
+              "kustomize",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -522,12 +996,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "deployKF builds machine learning platforms on Kubernetes. We combine the best of Kubeflow, Airflow†, and MLflow† into a complete platform.",
+            "homepage": "https://www.deploykf.org/",
             "id": 614078982,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-03T00:31:48Z",
+            "open_issues": 66,
             "owner": "deployKF",
             "repo": "deployKF",
-            "stars": 466
+            "stars": 466,
+            "topics": [
+              "argocd",
+              "artificial-intelligence",
+              "gitops",
+              "kubeflow",
+              "kubernetes",
+              "machine-learning",
+              "mlops"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -538,12 +1025,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal.",
+            "homepage": null,
             "id": 1034142340,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-19T18:16:52Z",
+            "open_issues": 17,
             "owner": "darksworm",
             "repo": "argonaut",
-            "stars": 442
+            "stars": 442,
+            "topics": [
+              "argo-cd",
+              "argocd",
+              "cd",
+              "cli",
+              "continuous-delivery",
+              "devops",
+              "gitops",
+              "helm",
+              "infrastructure-as-code",
+              "k8s",
+              "k9s-like",
+              "terminal",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -554,12 +1060,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes GitOps with nix and Argo CD.",
+            "homepage": "https://nixidy.dev",
             "id": 730185589,
             "language": "Nix",
+            "license": "MIT",
             "last_commit": "2026-08-14T09:35:46Z",
+            "open_issues": 2,
             "owner": "arnarg",
             "repo": "nixidy",
-            "stars": 383
+            "stars": 383,
+            "topics": [
+              "argocd",
+              "gitops",
+              "k8s",
+              "kubernetes",
+              "nix"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -570,12 +1087,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Run infrastructure as code (IaC) software tools including CDK, Terraform and Cloud Formation via GitOps.",
+            "homepage": "https://cello-proj.github.io/cello/",
             "id": 332062119,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-18T23:26:23Z",
+            "open_issues": 32,
             "owner": "cello-proj",
             "repo": "cello",
-            "stars": 289
+            "stars": 289,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -586,12 +1108,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bootstrapping a Production-Ready DigitalOcean Kubernetes Cluster Using Terraform and Argo CD",
+            "homepage": null,
             "id": 543102256,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2024-10-04T05:23:14Z",
+            "open_issues": 4,
             "owner": "hivenetes",
             "repo": "k8s-bootstrapper",
-            "stars": 282
+            "stars": 282,
+            "topics": [
+              "argocd",
+              "devops",
+              "digitalocean",
+              "digitalocean-kubernetes",
+              "gitops-framework",
+              "grafana",
+              "hacktoberfest",
+              "infrastructure-as-code",
+              "k8s",
+              "kubernetes",
+              "loki",
+              "prometheus",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -602,12 +1143,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides deep monitoring and self-healing of Kubernetes clusters",
+            "homepage": null,
             "id": 201529303,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T04:22:50Z",
+            "open_issues": 26,
             "owner": "keikoproj",
             "repo": "active-monitor",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "aiops",
+              "argo-workflows",
+              "healthcheck",
+              "healthcheck-workflow",
+              "kubernetes",
+              "kubernetes-cluster",
+              "kubernetes-controller",
+              "kubernetes-tools",
+              "machine-learning",
+              "metrics",
+              "prometheus-metrics",
+              "remedy",
+              "self-healing",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -618,12 +1179,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Notify ArgoCD Application status via Pull Request comment or GitHub Deployment API",
+            "homepage": null,
             "id": 320749625,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:36:29Z",
+            "open_issues": 13,
             "owner": "int128",
             "repo": "argocd-commenter",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "argocd",
+              "golang",
+              "kubebuilder",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -634,12 +1205,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Progressive sync controller for Argo ApplicationSet",
+            "homepage": null,
             "id": 333692417,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-16T05:02:16Z",
+            "open_issues": 30,
             "owner": "Skyscanner",
             "repo": "applicationset-progressive-sync",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "applicationset",
+              "argocd",
+              "cd",
+              "kubernetes",
+              "progressive-sync"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -650,12 +1232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+            "homepage": "https://console.kubestellar.io",
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:42:26Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:17:54Z",
+            "open_issues": 15,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -666,12 +1253,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Orkestra is a cloud-native release orchestration and lifecycle management (LCM) platform for the fine-grained orchestration of inter-dependent helm charts and their dependencies",
+            "homepage": "https://azure.github.io/orkestra",
             "id": 318608573,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-12T05:48:22Z",
+            "open_issues": 46,
             "owner": "Azure",
             "repo": "orkestra",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "argo",
+              "continuous-delivery",
+              "continuous-deployment",
+              "helm",
+              "kubernetes",
+              "orchestration-framework",
+              "release-orchestration",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -682,12 +1283,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Argo CD extension to enable visualization of Trivy generated vulnerability reports in Argo CD UI. ",
+            "homepage": null,
             "id": 782688828,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-07T12:16:48Z",
+            "open_issues": 7,
             "owner": "mziyabo",
             "repo": "argocd-trivy-extension",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "argocd",
+              "kubernetes",
+              "trivy-operator",
+              "vulnerability-assessment"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -698,12 +1309,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monitoring mixin for ArgoCD. A set of Grafana dashboards and Prometheus rules for ArgoCD.",
+            "homepage": null,
             "id": 714652057,
             "language": "Jsonnet",
+            "license": null,
             "last_commit": "2026-08-16T19:41:54Z",
+            "open_issues": 0,
             "owner": "adinhodovic",
             "repo": "argo-cd-mixin",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "alert",
+              "argo-cd",
+              "grafana",
+              "grafana-dashboard",
+              "monitoring",
+              "monitoring-mixin",
+              "monitoring-mixins",
+              "prometheus"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -714,12 +1339,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A service that bridges traditional pipelines and GitOps, improving deployment visibility. Includes a built-in GitOps repo updater.",
+            "homepage": "https://argo-watcher.readthedocs.io/",
             "id": 469915683,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:59:44Z",
+            "open_issues": 1,
             "owner": "shini4i",
             "repo": "argo-watcher",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "argocd",
+              "automation",
+              "ci-cd",
+              "devops",
+              "gitops",
+              "kubernetes",
+              "pipelines"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -730,12 +1368,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub action for executing Argo CD 🦑",
+            "homepage": null,
             "id": 337912324,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T21:26:30Z",
+            "open_issues": 0,
             "owner": "clowdhaus",
             "repo": "argo-cd-action",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "argo-cd",
+              "argocd",
+              "github-action",
+              "gitops"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -746,12 +1394,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Crossplane provider to provision and manage Argo CD objects",
+            "homepage": null,
             "id": 355244473,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T18:51:50Z",
+            "open_issues": 19,
             "owner": "crossplane-contrib",
             "repo": "provider-argocd",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "crossplane",
+              "crossplane-provider",
+              "kubernetes",
+              "operator"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -762,12 +1420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Posts the state of a CI workflow task to GitHub",
+            "homepage": null,
             "id": 374609813,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-19T20:44:03Z",
+            "open_issues": 9,
             "owner": "crumbhole",
             "repo": "ci-github-notifier",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -778,12 +1441,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comparison tool for displaying the differences between ArgoCD Applications in different Git branches",
+            "homepage": null,
             "id": 537096823,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T18:19:53Z",
+            "open_issues": 5,
             "owner": "shini4i",
             "repo": "argo-compare",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "argocd",
+              "argocd-application",
+              "diff",
+              "gitops"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -794,12 +1467,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MultiBranch Pipeline For Argo Workflows",
+            "homepage": "https://piper.quickube.com/",
             "id": 734973022,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-12T07:18:39Z",
+            "open_issues": 15,
             "owner": "quickube",
             "repo": "piper",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "argo",
+              "argoworkflow",
+              "piper",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -810,12 +1493,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Argo CD in a nutshell. Reproducible, clean Argo CD setups for demoing, development or troubleshooting as a ready-to-use Vagrantfile.",
+            "homepage": null,
             "id": 328460273,
             "language": null,
+            "license": "ISC",
             "last_commit": "2023-09-12T14:11:06Z",
+            "open_issues": 0,
             "owner": "jannfis",
             "repo": "argocd-nutshell",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "argo-cd",
+              "argocd",
+              "k3s",
+              "nutshell",
+              "vagrant"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -826,12 +1520,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ship argo workflows in packages",
+            "homepage": "https://www.npmjs.com/package/argopm",
             "id": 290434140,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:56:30Z",
+            "open_issues": 26,
             "owner": "atlanhq",
             "repo": "argopm",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "argo",
+              "package-manager"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -842,12 +1544,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Argo CD UI extension showing Trivy insights natively in the ArgoCD UI.",
+            "homepage": null,
             "id": 1319104182,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-16T10:51:45Z",
+            "open_issues": 0,
             "owner": "DeWildeDaan",
             "repo": "Argo-Trivy-Insights",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "argocd",
+              "dashboard",
+              "kubernetes",
+              "security",
+              "security-tools",
+              "trivy",
+              "trivy-dashboard",
+              "trivy-operator"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -858,12 +1574,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Juno makes it easy to define Argo Workflows with Typescript.",
+            "homepage": null,
             "id": 1022190605,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T15:04:53Z",
+            "open_issues": 9,
             "owner": "lumindigital",
             "repo": "juno",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         }
@@ -880,12 +1601,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed Machine Learning Patterns from Manning Publications by Yuan Tang https://bit.ly/2RKv8Zo",
+            "homepage": "https://bit.ly/2RKv8Zo",
             "id": 330007983,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-06T17:05:50Z",
+            "open_issues": 0,
             "owner": "terrytangyuan",
             "repo": "distributed-ml-patterns",
-            "stars": 535
+            "stars": 535,
+            "topics": [
+              "argo",
+              "argo-workflows",
+              "book",
+              "cloud-computing",
+              "cloud-native",
+              "data-science",
+              "devops",
+              "distributed-machine-learning",
+              "distributed-systems",
+              "kubeflow",
+              "kubernetes",
+              "large-scale-machine-learning",
+              "machine-learning",
+              "machine-learning-pipelines",
+              "manning-publications",
+              "mlops",
+              "python",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         }
@@ -902,12 +1647,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Argo Workflows Guide",
+            "homepage": "https://devops-ws.github.io/argo-workflows-guide/",
             "id": 583237498,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2025-05-14T05:50:01Z",
+            "open_issues": 0,
             "owner": "LinuxSuRen",
             "repo": "argo-workflows-guide",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         }
@@ -924,12 +1674,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slides, videos, and supporting files for my public talks",
+            "homepage": "https://terrytangyuan.github.io/public-talks/",
             "id": 422591810,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-12T15:44:49Z",
+            "open_issues": 0,
             "owner": "terrytangyuan",
             "repo": "public-talks",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "cloud-native",
+              "deep-learning",
+              "gitops",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "public-speaking"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -940,12 +1703,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slides, videos, and supporting files for my public talks",
+            "homepage": "https://terrytangyuan.github.io/public-talks/",
             "id": 422591810,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-12T15:44:49Z",
+            "open_issues": 0,
             "owner": "terrytangyuan",
             "repo": "public-talks",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "cloud-native",
+              "deep-learning",
+              "gitops",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "public-speaking"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -956,12 +1732,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slides, videos, and supporting files for my public talks",
+            "homepage": "https://terrytangyuan.github.io/public-talks/",
             "id": 422591810,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-12T15:44:49Z",
+            "open_issues": 0,
             "owner": "terrytangyuan",
             "repo": "public-talks",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "cloud-native",
+              "deep-learning",
+              "gitops",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "public-speaking"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -972,12 +1761,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slides, videos, and supporting files for my public talks",
+            "homepage": "https://terrytangyuan.github.io/public-talks/",
             "id": 422591810,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-12T15:44:49Z",
+            "open_issues": 0,
             "owner": "terrytangyuan",
             "repo": "public-talks",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "cloud-native",
+              "deep-learning",
+              "gitops",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "public-speaking"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -988,12 +1790,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slides, videos, and supporting files for my public talks",
+            "homepage": "https://terrytangyuan.github.io/public-talks/",
             "id": 422591810,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-12T15:44:49Z",
+            "open_issues": 0,
             "owner": "terrytangyuan",
             "repo": "public-talks",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "cloud-native",
+              "deep-learning",
+              "gitops",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "public-speaking"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -1004,12 +1819,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slides, videos, and supporting files for my public talks",
+            "homepage": "https://terrytangyuan.github.io/public-talks/",
             "id": 422591810,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-12T15:44:49Z",
+            "open_issues": 0,
             "owner": "terrytangyuan",
             "repo": "public-talks",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "cloud-native",
+              "deep-learning",
+              "gitops",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "public-speaking"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         }
@@ -1026,12 +1854,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Common project repo for all Argo Projects",
+            "homepage": "https://argoproj.github.io/",
             "id": 256053360,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-27T13:42:32Z",
+            "open_issues": 26,
             "owner": "argoproj",
             "repo": "argoproj",
-            "stars": 753
+            "stars": 753,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -1047,12 +1880,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Common project repo for all Argo Projects",
+                "homepage": "https://argoproj.github.io/",
                 "id": 256053360,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-27T13:42:32Z",
+                "open_issues": 26,
                 "owner": "argoproj",
                 "repo": "argoproj",
-                "stars": 753
+                "stars": 753,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:56.262Z"
             },
@@ -1063,12 +1901,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Common project repo for all Argo Projects",
+                "homepage": "https://argoproj.github.io/",
                 "id": 256053360,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-27T13:42:32Z",
+                "open_issues": 26,
                 "owner": "argoproj",
                 "repo": "argoproj",
-                "stars": 753
+                "stars": 753,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:56.262Z"
             }
@@ -1087,12 +1930,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative Continuous Deployment for Kubernetes",
+            "homepage": "https://argo-cd.readthedocs.io",
             "id": 120896210,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:15:09Z",
+            "open_issues": 4412,
             "owner": "argoproj",
             "repo": "argo-cd",
-            "stars": 24027
+            "stars": 24030,
+            "topics": [
+              "argo",
+              "argo-cd",
+              "cd",
+              "ci-cd",
+              "cicd",
+              "continuous-delivery",
+              "continuous-deployment",
+              "devops",
+              "docker",
+              "gitops",
+              "hacktoberfest",
+              "helm",
+              "jsonnet",
+              "kubernetes",
+              "kustomize",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -1103,12 +1968,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workflow Engine for Kubernetes",
+            "homepage": "https://argo-workflows.readthedocs.io/",
             "id": 100982449,
             "language": "Go",
-            "last_commit": "2026-08-28T20:09:07Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:33:55Z",
+            "open_issues": 1254,
             "owner": "argoproj",
             "repo": "argo-workflows",
-            "stars": 16945
+            "stars": 16945,
+            "topics": [
+              "airflow",
+              "argo",
+              "argo-workflows",
+              "batch-processing",
+              "cloud-native",
+              "cncf",
+              "dag",
+              "data-engineering",
+              "gitops",
+              "hacktoberfest",
+              "k8s",
+              "knative",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "pipelines",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -1119,12 +2008,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Progressive Delivery for Kubernetes",
+            "homepage": "https://argo-rollouts.readthedocs.io/",
             "id": 158012967,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T00:42:52Z",
+            "open_issues": 661,
             "owner": "argoproj",
             "repo": "argo-rollouts",
-            "stars": 3562
+            "stars": 3562,
+            "topics": [
+              "argo-rollouts",
+              "argoproj",
+              "bluegreen",
+              "canary",
+              "deployments",
+              "experiments",
+              "gitops",
+              "hacktoberfest",
+              "kubernetes",
+              "progressive-delivery"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         },
@@ -1135,12 +2040,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Event-driven Automation Framework for Kubernetes",
+            "homepage": "https://argoproj.github.io/argo-events/",
             "id": 133830411,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T13:20:41Z",
+            "open_issues": 152,
             "owner": "argoproj",
             "repo": "argo-events",
-            "stars": 2687
+            "stars": 2687,
+            "topics": [
+              "argo",
+              "automation-framework",
+              "cloud-native",
+              "cloudevents",
+              "event-driven",
+              "event-source",
+              "eventing-framework",
+              "kubernetes",
+              "pipelines",
+              "triggers",
+              "workflow-automation",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-29T00:05:56.262Z"
         }
@@ -1149,15 +2072,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:05:56.262Z",
+    "last_updated": "2026-08-29T04:21:46.298Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome projects and resources related to Argo (a CNCF graduated project)",
+      "homepage": "https://akuity.github.io/awesome-argo/",
       "id": 423298850,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-08-07T12:20:46Z",
+      "open_issues": 0,
       "owner": "akuity",
       "repo": "awesome-argo",
-      "stars": 2478
+      "stars": 2478,
+      "topics": [
+        "argo",
+        "argo-events",
+        "argo-rollouts",
+        "argo-workflows",
+        "argocd",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "cloud-native",
+        "cncf",
+        "continuous-delivery",
+        "devops",
+        "gitops",
+        "infrastructure-as-code",
+        "kubernetes",
+        "machine-learning",
+        "mlops",
+        "workflow-engine",
+        "workflow-management",
+        "workflow-orchestration"
+      ]
     },
     "original_repository_sha": "78c1f8877c412acc7cf3f21455d50d428b4f966b",
     "enhanced_repository": "enhansome/enhansome-argo",
