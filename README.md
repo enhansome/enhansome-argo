@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/akuity/awesome-argo) ⭐ 2,494 | 🐛 1 | 📅 2026-09-18 [![Slack](https://img.shields.io/badge/slack-argoproj-brightgreen.svg?logo=slack)](https://argoproj.github.io/community/join-slack) [![X Follow](https://img.shields.io/twitter/follow/argoproj?style=social)](https://x.com/argoproj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-argoproj-blue.svg?logo=linkedin)](https://www.linkedin.com/company/argoproj/)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/akuity/awesome-argo) [![Slack](https://img.shields.io/badge/slack-argoproj-brightgreen.svg?logo=slack)](https://argoproj.github.io/community/join-slack) [![X Follow](https://img.shields.io/twitter/follow/argoproj?style=social)](https://x.com/argoproj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-argoproj-blue.svg?logo=linkedin)](https://www.linkedin.com/company/argoproj/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-argoproj-blue.svg?style=social\&logo=bluesky)](https://bsky.app/profile/argoproj.bsky.social)
 
 # Awesome Argo with stars
@@ -53,13 +53,13 @@ In addition, [argoproj-labs](https://github.com/argoproj-labs) is a separate Git
 
 Selected projects from [argoproj](https://github.com/argoproj) (other than the four projects mentioned above) and [argoproj-labs](https://github.com/argoproj-labs):
 
-* [Argo Helm](https://github.com/argoproj/argo-helm) ⭐ 2,376 | 🐛 44 | 🌐 Mustache | 📅 2026-10-02 is a collection of community-maintained Helm charts for Argo projects.
-* [Argo CD Image Updater](https://github.com/argoproj-labs/argocd-image-updater) ⭐ 1,719 | 🐛 330 | 🌐 Go | 📅 2026-10-02 is a tool to automatically update the container images of Kubernetes workloads which are managed by Argo CD.
+* [Argo Helm](https://github.com/argoproj/argo-helm) ⭐ 2,377 | 🐛 44 | 🌐 Mustache | 📅 2026-10-02 is a collection of community-maintained Helm charts for Argo projects.
+* [Argo CD Image Updater](https://github.com/argoproj-labs/argocd-image-updater) ⭐ 1,719 | 🐛 331 | 🌐 Go | 📅 2026-10-02 is a tool to automatically update the container images of Kubernetes workloads which are managed by Argo CD.
 * [Argo CD Autopilot](https://github.com/argoproj-labs/argocd-autopilot) ⭐ 1,130 | 🐛 97 | 🌐 Go | 📅 2025-12-16 offers an opinionated way of installing Argo CD and managing GitOps repositories.
 * [Argo CD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin) ⭐ 980 | 🐛 162 | 🌐 Go | 📅 2024-12-18 is an Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes resources.
 * [Hera](https://github.com/argoproj-labs/hera) ⭐ 941 | 🐛 34 | 🌐 Python | 📅 2026-10-01 is an Argo Python SDK. Hera aims to make construction and submission of various Argo Project resources easy and accessible to everyone.
 * [Argo CD Operator](https://github.com/argoproj-labs/argocd-operator) ⭐ 890 | 🐛 79 | 🌐 Go | 📅 2026-09-30 is a Kubernetes operator for managing Argo CD clusters.
-* [Argo CD Agent](https://github.com/argoproj-labs/argocd-agent) ⭐ 600 | 🐛 61 | 🌐 Go | 📅 2026-10-02 aims to improve scalability and security of Argo CD's multi-cluster capabilities
+* [Argo CD Agent](https://github.com/argoproj-labs/argocd-agent) ⭐ 600 | 🐛 62 | 🌐 Go | 📅 2026-10-02 aims to improve scalability and security of Argo CD's multi-cluster capabilities
 * [Notifications Engine](https://github.com/argoproj/notifications-engine) ⭐ 335 | 🐛 118 | 🌐 Go | 📅 2026-10-01 is a configuration-driven Golang library that provides notifications for cloud-native applications.
 * [Argo Rollout Extension](https://github.com/argoproj-labs/rollout-extension) ⭐ 291 | 🐛 37 | 🌐 TypeScript | 📅 2026-06-30 contains the Argo Rollout dashboard that can be added into the Argo CD Web UI.
 * [Argo Rollouts Manager](https://github.com/argoproj-labs/argo-rollouts-manager) ⭐ 142 | 🐛 1 | 🌐 Go | 📅 2026-10-02 is a Kubernetes operator that provides an easy way to install, upgrade and manage the lifecycle of Argo Rollouts.
@@ -71,16 +71,16 @@ Selected projects from [argoproj](https://github.com/argoproj) (other than the f
 
 Other open source projects that use Argo:
 
-* [Meshery](https://github.com/meshery/meshery) ⭐ 11,890 | 🐛 2,126 | 🌐 TypeScript | 📅 2026-10-02 is the open source, cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications (multi-cloud).
+* [Meshery](https://github.com/meshery/meshery) ⭐ 11,895 | 🐛 2,128 | 🌐 TypeScript | 📅 2026-10-03 is the open source, cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications (multi-cloud).
 * [Kedro](https://github.com/quantumblacklabs/kedro) ⭐ 11,012 | 🐛 135 | 🌐 Python | 📅 2026-10-02 is an open-source Python framework for creating reproducible, maintainable and modular data science code.
-* [Reloader](https://github.com/stakater/Reloader) ⭐ 10,456 | 🐛 163 | 🌐 Go | 📅 2026-10-02 is a Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on associated Deployments/StatefulSets/Daemonsets and Argo Rollouts.
-* [Metaflow](https://github.com/Netflix/metaflow) ⭐ 10,288 | 🐛 512 | 🌐 Python | 📅 2026-09-25 is a Python library for building and managing real-life data science projects.
+* [Reloader](https://github.com/stakater/Reloader) ⭐ 10,460 | 🐛 163 | 🌐 Go | 📅 2026-10-02 is a Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on associated Deployments/StatefulSets/Daemonsets and Argo Rollouts.
+* [Metaflow](https://github.com/Netflix/metaflow) ⭐ 10,289 | 🐛 512 | 🌐 Python | 📅 2026-09-25 is a Python library for building and managing real-life data science projects.
 * [Devtron](https://github.com/devtron-labs/devtron) ⭐ 5,610 | 🐛 771 | 🌐 Go | 📅 2026-09-23 is a Web-Based CI/CD Platform for Kubernetes, powered by Argo.
 * [SQLFlow](https://github.com/sql-machine-learning/sqlflow) ⭐ 5,190 | 🐛 250 | 🌐 Go | 📅 2024-04-18 extends SQL to support AI and compiles the SQL program to a workflow that runs on Kubernetes.
 * [Seldon](https://github.com/SeldonIO/seldon-core) ⭐ 4,783 | 🐛 396 | 🌐 Go | 📅 2026-03-23 is an MLOps framework to package, deploy, monitor and manage thousands of production machine learning models.
-* [Kubeflow Pipelines](https://github.com/kubeflow/pipelines) ⭐ 4,232 | 🐛 361 | 🌐 Go | 📅 2026-10-02 is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.
+* [Kubeflow Pipelines](https://github.com/kubeflow/pipelines) ⭐ 4,232 | 🐛 360 | 🌐 Go | 📅 2026-10-02 is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.
 * [Orchest](https://github.com/orchest/orchest) ⚠️ Archived is a tool for building data pipelines/workflows. It supports Jupyter notebooks and scripts in multiple languages and provides a user friendly UI/browser based editor.
-* [Kargo](https://github.com/akuity/kargo) ⭐ 3,693 | 🐛 211 | 🌐 Go | 📅 2026-10-02 helps GitOps practitioners streamline continuous delivery for Kubernetes by automating the progression of changes from one environment to the next.
+* [Kargo](https://github.com/akuity/kargo) ⭐ 3,695 | 🐛 210 | 🌐 Go | 📅 2026-10-03 helps GitOps practitioners streamline continuous delivery for Kubernetes by automating the progression of changes from one environment to the next.
 * [Ploomber](https://github.com/ploomber/ploomber) ⚠️ Archived helps overcome the challenges of working with Jupyter notebooks and allows teams to develop collaborative, production-ready pipelines using JupyterLab or any text editor.
 * [kubefirst](https://github.com/kubefirst/kubefirst/) ⭐ 2,059 | 🐛 289 | 🌐 Go | 📅 2026-02-25 provides fully automated open source application delivery and infrastructure management GitOps platforms for Kubernetes.
 * [Kubeflow Katib](https://github.com/kubeflow/katib) ⭐ 1,705 | 🐛 118 | 🌐 Python | 📅 2026-09-29 is a Kubernetes-native project for automated machine learning (AutoML).
@@ -95,8 +95,8 @@ Other open source projects that use Argo:
 * [Cello](https://github.com/cello-proj/cello) ⚠️ Archived is a service for running infrastructure as code software tools including CDK, Terraform and Cloud Formation via GitOps.
 * [k8s-bootstrapper](https://github.com/hivenetes/k8s-bootstrapper) ⭐ 282 | 🐛 4 | 🌐 HCL | 📅 2024-10-04 is a framework to set up production ready Kubernetes clusters using Terraform and Argo CD.
 * [active-monitor](https://github.com/keikoproj/active-monitor) ⭐ 188 | 🐛 31 | 🌐 Go | 📅 2026-10-01 is a Kubernetes controller which enables deep cluster monitoring and self-healing using Argo Workflows.
-* [argocd-commenter](https://github.com/int128/argocd-commenter) ⭐ 154 | 🐛 17 | 🌐 Go | 📅 2026-10-02 is a Kubernetes controller to notify a change of Argo CD Application status via comments on GitHub pull requests and GitHub Deployments.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 140 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-02 is an AI-powered multi-cluster Kubernetes management dashboard (CNCF Sandbox) that integrates with Argo CD for GitOps-driven workload placement and monitoring across edge and cloud clusters.
+* [argocd-commenter](https://github.com/int128/argocd-commenter) ⭐ 154 | 🐛 18 | 🌐 Go | 📅 2026-10-03 is a Kubernetes controller to notify a change of Argo CD Application status via comments on GitHub pull requests and GitHub Deployments.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 140 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-03 is an AI-powered multi-cluster Kubernetes management dashboard (CNCF Sandbox) that integrates with Argo CD for GitOps-driven workload placement and monitoring across edge and cloud clusters.
 * [applicationset-progressive-sync](https://github.com/Skyscanner/applicationset-progressive-sync) ⚠️ Archived is a controller to allow a progressive sync of ArgoCD Applications generated by an ApplicationSet.
 * [argocd-trivy-extension](https://github.com/mziyabo/argocd-trivy-extension) ⭐ 112 | 🐛 7 | 🌐 JavaScript | 📅 2025-09-07 is Argo CD extension to enable visualization of Trivy generated vulnerability reports in Argo CD UI.
 * [Orkestra](https://github.com/Azure/orkestra) ⭐ 112 | 🐛 46 | 🌐 Go | 📅 2023-04-12 is a cloud-native release orchestration and lifecycle management (LCM) platform for the fine-grained orchestration of inter-dependent Helm charts and their dependencies.
@@ -510,8 +510,8 @@ Some blogposts and videos are selected from [Argo's community blogs and presenta
 
 Thanks to the contributors who've submitted pull requests to add the original references to the following locations:
 
-* [Argo CD](https://github.com/argoproj/argo-cd/blob/master/README.md#blogs-and-presentations) ⭐ 24,317 | 🐛 4,394 | 🌐 Go | 📅 2026-10-02
-* [Argo Workflows](https://github.com/argoproj/argo-workflows/blob/master/README.md#community-blogs-and-presentations) ⭐ 17,018 | 🐛 1,310 | 🌐 Go | 📅 2026-10-02
+* [Argo CD](https://github.com/argoproj/argo-cd/blob/master/README.md#blogs-and-presentations) ⭐ 24,319 | 🐛 4,395 | 🌐 Go | 📅 2026-10-02
+* [Argo Workflows](https://github.com/argoproj/argo-workflows/blob/master/README.md#community-blogs-and-presentations) ⭐ 17,019 | 🐛 1,310 | 🌐 Go | 📅 2026-10-02
 * [Argo Rollouts](https://github.com/argoproj/argo-rollouts/blob/master/README.md#community-blogs-and-presentations) ⭐ 3,593 | 🐛 662 | 🌐 Go | 📅 2026-10-02
 * [Argo Events](https://github.com/argoproj/argo-events/blob/master/README.md#blogs-and-presentations) ⭐ 2,696 | 🐛 159 | 🌐 Go | 📅 2026-09-26
 
@@ -519,4 +519,4 @@ Thanks to the contributors who've submitted pull requests to add the original re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
